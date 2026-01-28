@@ -1,0 +1,12 @@
+button{
+    padding: '10px, 20px';
+    font-size: 1.2 rem;
+    cursor: pointer;
+}
+
+div{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+}
